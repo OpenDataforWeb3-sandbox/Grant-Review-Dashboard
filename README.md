@@ -42,8 +42,8 @@ Examples of signals for Grant Review legos:
 Check out more info about Sybil Legos [here](https://opendatacommunity.org/docs/legos/) to get inspired
 
 If you read until here and still are confused?(which is very likely, we are also sometimes 🙃) we would recommend taking a look at these anti-sybil dashboards built by the amazing people that participated in past ODC Hackatons:
-[GrantLooker-by Kikura](https://www.grantlooker.xyz/projects) - this one 
-[Anti-Sybil Dashboard - by Rayfront](https://dashboard-e9cf.vercel.app/) - this one is a cool examples of a clean way to visualize the data even if it is not accurate
+[GrantLooker-by Kikura](https://www.grantlooker.xyz/projects) - this project provides a interesting functional solution overall, read more about it [here](https://github.com/kikura3/gtclooker)
+[Anti-Sybil Dashboard - by Rayfront](https://dashboard-e9cf.vercel.app/) - this one is a cool example of a clean way to visualize the grant round data from past rounds
  
 If you wanna join us come say hello in our [Discord](https://discord.gg/bUBExSASBw) channel or check out our issues on Github🙂
 
