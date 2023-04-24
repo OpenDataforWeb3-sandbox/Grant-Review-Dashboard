@@ -17,14 +17,14 @@ The project aims to build a modular, configurable open source dashboard that wil
 
 ### Who can use this:  
 
-Gitcoin is the best web3 crowdfunding platform recently launched the Allo [protocol](https://docs.allo.gitcoin.co/getting-started/introduction). By using this tool all the round owners of the Allo protocol will save time and resources by screening out bad grants from their rounds. Grantees hugely benefit also because by filtering out bad grant applications in time they get more matching allocated to them. Gitcoin DAO would also be empowered by the success of this tool as it might save a lot of hard working people working on grant approvals a lot of time!
-
+Gitcoin is the best web3 crowdfunding platform recently launched the Allo [protocol](https://docs.allo.gitcoin.co/getting-started/introduction). By using this tool all the round owners of the Allo protocol will save time and resources by screening out bad grants from their rounds. Grantees hugely benefit also because by filtering out bad grant applications in time they get more matching allocated to them. It will also save time/resources for Gitcoin DAO would as it with take the load of the people that are working on grant reviews/approvals(currently PGF workstream).
 
 ### Contribution(also important for hackaton participants):  
 
 How to get involved? Well, if you like challanges you are in for a huge one, the Grant Review Dashboard is a very complex project and it remains largely an unsolved problem because it involves multiple areas such as: 
 -sybil attacks are an unsolved problem 
--it is a red team-blue time scenario in which even if you lived in a universe where sybils are completely destroyed, people will still find ways to emulate the behaviour of real project as long as the incentives are appealing
+-grant reviews or reviews of any kind have never been automated
+-it is a red team-blue time scenario in which even if you lived in a universe where sybils are completely destroyed and grant reviews are automated, people will still find ways to emulate the behaviour of real project as long as the incentives are appealing
 -anti grant fraud automation, involving turning signals into [Legos](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) 
 -creating a LEGO logic that will flag the grants with a level of accuracy and precission that make the dashboard trustworthy 
 -pulling and working with onchain data that can be visualized on the Dashboard in a timely manner
@@ -49,7 +49,8 @@ If you wanna join us come say hello in our [Discord](https://discord.gg/bUBExSAS
 
 ###Rough milestones*
 
-1. Creating a grant review dashboard that clearly signals which grants are clear NOs via a couple of Legos(MVP)
-2. Developing a grant review dashboard that can be used in the next Gitcoin Round(at least for one of the rounds)
-3. Enlarging the scope and making sure the dashboard is configurable enough and can be used by multiple round owners to signal bad grant applications
+1. Developing more legos and creating a accurate lego logic
+2. Creating a grant review dashboard that clearly signals which grants are clear NOs(MVP)
+3. Developing a grant review dashboard that can be used as a reliable source in the next Gitcoin Round(at least for one of the rounds)
+4. Enlarging the scope and making sure the dashboard is configurable enough and can be used by multiple round owners to signal bad grant applications
 *modifications can appear along the way 
