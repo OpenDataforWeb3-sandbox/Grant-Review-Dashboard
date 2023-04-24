@@ -9,7 +9,7 @@ Luckily the ODC has created the Sandbox initiative, thus people that have a pass
 
 ### What is the Grant Review Dashboard?  
 
-An open source dashboard that aims to progresivally lead to the complete automation of grant reviewing/screening before/during the Gitcoin rounds by using and developing a series of Lego analysis on grants that participate in Gitcoin Rounds. Of course we might adapt and evolve along the way as the program is still in the Beta phase and many aspects of it may change.
+An open source dashboard that aims to progresivally lead to the automation of grant reviewing/screening before/during the Gitcoin rounds by using and developing a series of Lego analysis on grants that participate in Gitcoin Rounds. Of course we might adapt and evolve along the way as the program is still in the Beta phase and many aspects of it may change. It is very likely that the Grant Review Dashboard will work together with a review protocol that involves actual reviewers that have experience related to the scope of the rounds or want to participate in the defense of public goods.
 
 ### Objective:  
 
@@ -24,9 +24,9 @@ Gitcoin is the best web3 crowdfunding platform recently launched the Allo [proto
 
 How to get involved? Well, if you like challanges you are in for a huge one, the Grant Review Dashboard is a very complex project and it remains largely part of an unsolved problem because it involves multiple areas such as: 
 -anti-sybil approaches(defending public goods from bad actors)
--anti grant fraud automation, involving turning signal into [Legos](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546), but not limited to
--the development of completely new digital tools that should work optimally in a live grant environment(during the Gitcoin rounds)
--pulling and working with onchain data that can be easily visualized on the Dashboard
+-anti grant fraud automation, involving turning signals into [Legos](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) and displaying them
+-creating a LEGO logic that will flag the grants with a level of accuracy and precission that make the dashboard trustworthy
+-pulling and working with onchain data that can be visualized on the Dashboard
 
 You read until here and still are confused? Well if you are looking for inspiration you can check out these anti-sybil dashboards built by the amazing people that participated in past ODC Hackatons:
 [GrantLooker-by Kikura](https://www.grantlooker.xyz/projects)
