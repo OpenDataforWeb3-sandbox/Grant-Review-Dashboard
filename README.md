@@ -17,11 +17,11 @@ The project aims to build a modular, configurable open source dashboard that wil
 
 ### Who can use this:  
 
-Gitcoin is the best web3 crowdfunding platform recently launched the Allo [protocol](https://docs.allo.gitcoin.co/getting-started/introduction). By using this tool all the round owners of the Allo protocol will save time and resources by screening out bad grants from their rounds. Grantees hugely benefit also because by filtering out bad grant applications in time they get more matching allocated to them. It will also save time/resources for Gitcoin DAO would as it with take the load of the people that are working on grant reviews/approvals(currently PGF workstream).
+Gitcoin is the best web3 crowdfunding platform and it recently launched the Allo [protocol](https://docs.allo.gitcoin.co/getting-started/introduction). By using this tool all the round owners of the Allo protocol will save time and resources by screening out bad grants from their rounds. Grantees hugely benefit also because by filtering out bad grant applications in time they get more matching allocated to them. It will also save time/resources for Gitcoin DAO would as it with take the load of the people that are working on grant reviews/approvals(currently PGF workstream).
 
-### Contribution(also important for hackaton participants):  
+### Useful information for future contributors(also important for hackaton participants):  
 
-How to get involved? Well, if you like challanges you are in for a huge one, the Grant Review Dashboard is a very complex project and it remains largely an unsolved problem because it involves multiple areas such as: 
+Well, if you like challanges you are in for a huge one, the Grant Review Dashboard is a very complex project and it remains largely an unsolved problem because:
 -sybil attacks are an unsolved problem 
 -grant reviews or reviews of any kind have never been automated
 -it is a red team-blue time scenario in which even if you lived in a universe where sybils are completely destroyed and grant reviews are automated, people will still find ways to emulate the behaviour of real project as long as the incentives are appealing
@@ -41,16 +41,19 @@ Examples of signals for Grant Review legos:
 
 Check out more info about Sybil Legos [here](https://opendatacommunity.org/docs/legos/) to get inspired
 
-If you read until here and still are confused?(which is very likely, we are also sometimes 🙃) we would recommend taking a look at these anti-sybil dashboards built by the amazing people that participated in past ODC Hackatons:
+### Going the extra mile: 
+
+If you managed to read until here and still are confused?(which is very likely, we are also sometimes 🙃) we would recommend taking a look at these anti-sybil dashboards built by the amazing people that participated in past ODC Hackatons:
 [GrantLooker-by Kikura](https://www.grantlooker.xyz/projects) - this project provides a interesting functional solution overall, read more about it [here](https://github.com/kikura3/gtclooker)
 [Anti-Sybil Dashboard - by Rayfront](https://dashboard-e9cf.vercel.app/) - this one is a cool example of a clean way to visualize the grant round data from past rounds
- 
-If you wanna join us come say hello in our [Discord](https://discord.gg/bUBExSASBw) channel or check out our issues on Github🙂
+
 
 ###Rough milestones*
 
-1. Developing more legos and creating a accurate lego logic
+1. Developing more legos and creating an accurate lego logic 
 2. Creating a grant review dashboard that clearly signals which grants are clear NOs(MVP)
 3. Developing a grant review dashboard that can be used as a reliable source in the next Gitcoin Round(at least for one of the rounds)
 4. Enlarging the scope and making sure the dashboard is configurable enough and can be used by multiple round owners to signal bad grant applications
 *modifications can appear along the way 
+
+If you're interested and wanna join us in this journey please come say hello in our [Discord](https://discord.gg/bUBExSASBw) channel🙂
