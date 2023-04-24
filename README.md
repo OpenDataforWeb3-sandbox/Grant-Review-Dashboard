@@ -24,7 +24,7 @@ Gitcoin is the best web3 crowdfunding platform recently launched the Allo [proto
 
 How to get involved? Well, if you like challanges you are in for a huge one, the Grant Review Dashboard is a very complex project and it remains largely an unsolved problem because it involves multiple areas such as: 
 -sybil attacks are an unsolved problem 
--it is a red team-blue time scenario in which even if sybils are completely destroyed, people will still find ways to emulate the behaviour of real project as long as the incentives are appealing
+-it is a red team-blue time scenario in which even if you lived in a universe where sybils are completely destroyed, people will still find ways to emulate the behaviour of real project as long as the incentives are appealing
 -anti grant fraud automation, involving turning signals into [Legos](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) 
 -creating a LEGO logic that will flag the grants with a level of accuracy and precission that make the dashboard trustworthy 
 -pulling and working with onchain data that can be visualized on the Dashboard in a timely manner
@@ -47,10 +47,9 @@ If you read until here and still are confused?(which is very likely, we are also
  
 If you wanna join us come say hello in our [Discord](https://discord.gg/bUBExSASBw) channel or check out our issues on Github🙂
 
-###Milestones*
+###Rough milestones*
 
 1. Creating a grant review dashboard that clearly signals which grants are clear NOs via a couple of Legos(MVP)
 2. Developing a grant review dashboard that can be used in the next Gitcoin Round(at least for one of the rounds)
 3. Enlarging the scope and making sure the dashboard is configurable enough and can be used by multiple round owners to signal bad grant applications
-
 *modifications can appear along the way 
