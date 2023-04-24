@@ -22,17 +22,30 @@ Gitcoin is the best web3 crowdfunding platform recently launched the Allo [proto
 
 ### Contribution(also important for hackaton participants):  
 
-How to get involved? Well, if you like challanges you are in for a huge one, the Grant Review Dashboard is a very complex project and it remains largely part of an unsolved problem because it involves multiple areas such as: 
--anti-sybil approaches(defending public goods from bad actors)
--anti grant fraud automation, involving turning signals into [Legos](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) and displaying them
--creating a LEGO logic that will flag the grants with a level of accuracy and precission that make the dashboard trustworthy
--pulling and working with onchain data that can be visualized on the Dashboard
+How to get involved? Well, if you like challanges you are in for a huge one, the Grant Review Dashboard is a very complex project and it remains largely an unsolved problem because it involves multiple areas such as: 
+-sybil attacks are an unsolved problem 
+-it is a red team-blue time scenario in which even if sybils are completely destroyed, people will still find ways to emulate the behaviour of real project as long as the incentives are appealing
+-anti grant fraud automation, involving turning signals into [Legos](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) 
+-creating a LEGO logic that will flag the grants with a level of accuracy and precission that make the dashboard trustworthy 
+-pulling and working with onchain data that can be visualized on the Dashboard in a timely manner
 
-You read until here and still are confused? Well if you are looking for inspiration you can check out these anti-sybil dashboards built by the amazing people that participated in past ODC Hackatons:
-[GrantLooker-by Kikura](https://www.grantlooker.xyz/projects)
-[Anti-Sybil Dashboard - by Rayfront](https://dashboard-e9cf.vercel.app/)
+Examples of signals for Grant Review legos:
+-Github activity of the grant creator
+-Check if the website is online
+-analyze website data
+-analyze onchain behaviour 
+-analyze twitter data
+-Does he have a Passport with a score over at least 22
+-analyze correletions between all of the above
+-etc
 
-It would be best if you could reach out to us on our [Discord](https://discord.gg/bUBExSASBw) channel or get out our issues on Github🙂
+Check out more info about Sybil Legos [here](https://opendatacommunity.org/docs/legos/) to get inspired
+
+If you read until here and still are confused?(which is very likely, we are also sometimes 🙃) we would recommend taking a look at these anti-sybil dashboards built by the amazing people that participated in past ODC Hackatons:
+[GrantLooker-by Kikura](https://www.grantlooker.xyz/projects) - this one 
+[Anti-Sybil Dashboard - by Rayfront](https://dashboard-e9cf.vercel.app/) - this one is a cool examples of a clean way to visualize the data even if it is not accurate
+ 
+If you wanna join us come say hello in our [Discord](https://discord.gg/bUBExSASBw) channel or check out our issues on Github🙂
 
 ###Milestones*
 
