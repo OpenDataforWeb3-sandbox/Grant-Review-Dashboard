@@ -22,22 +22,24 @@ Gitcoin is the best web3 crowdfunding platform and it recently launched the Allo
 ### Useful information for future contributors(also important for hackaton participants):  
 
 Well, if you like challanges you are in for a huge one, the Grant Review Dashboard is a very complex project and it remains largely an unsolved problem because:
--sybil attacks are an unsolved problem 
--grant reviews or reviews of any kind have never been automated
--it is a red team-blue time scenario in which even if you lived in a universe where sybils are completely destroyed and grant reviews are automated, people will still find ways to emulate the behaviour of real project as long as the incentives are appealing
--anti grant fraud automation, involving turning signals into [Legos](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) 
--creating a LEGO logic that will flag the grants with a level of accuracy and precission that make the dashboard trustworthy 
--pulling and working with onchain data that can be visualized on the Dashboard in a timely manner
+
+
+1.sybil attacks are an unsolved problem 
+2.grant reviews or reviews of any kind have never been automated
+3.it is a red team-blue time scenario in which even if you lived in a universe where sybils are completely destroyed and grant reviews are automated, people will still find ways to emulate the behaviour of real project as long as the incentives are appealing
+4.anti grant fraud automation, involving turning signals into [Legos](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) 
+5.creating a LEGO logic that will flag the grants with a level of accuracy and precission that make the dashboard trustworthy 
+6.pulling and working with onchain data that can be visualized on the Dashboard in a timely manner
 
 Examples of signals for Grant Review legos:
--Github activity of the grant creator
--Check if the website is online
--analyze website data
--analyze onchain behaviour 
--analyze twitter data
--Does he have a Passport with a score over at least 22
--analyze correletions between all of the above
--etc
+
+1.Github activity of the grant creator
+2.Check if the website is online
+3.analyze website data
+4.analyze onchain behaviour 
+5.analyze twitter data
+6.Does he have a Passport with a score over at least 22
+7.analyze correletions between all of the above
 
 Check out more info about Sybil Legos [here](https://opendatacommunity.org/docs/legos/) to get inspired
 
